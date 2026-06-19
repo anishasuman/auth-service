@@ -1,0 +1,30 @@
+First make Spring Boot Project by using https://start.spring.io/ so that we can open in any compiler that is suitable as per your device.
+Next while creating project add depencies like  Spring Web , Spring Data JPA , MySQL Driver , Spring Security , Validation , Lombok(To shortern our java code).
+Then open Mysql workBench and create your DB. You can use any DB that you know well.
+Structure of my project  , These are the packages , I have added in com.hr.authservice
+│
+├── controller
+├── service
+├── repository
+├── entity
+├── dto
+├── exception
+└── configure
+PHASE 2 
+Will work Register improve API
+1. Email Duplicate Check
+2. Validation / Controller
+3. Exception Handling
+4. Password Encryption
+TERMS THAT IS IMP
+DTO  = Data Transfer Object
+JPA  = Java Persistence API
+JWT  = JSON Web Token
+API  = Application Programming Interface
+CRUD = Create Read Update Delete
+ORM  = Object Relational Mapping
+SQL  = Structured Query Language
+OOP  = Object Oriented Programming
+
+
+
